@@ -1,5 +1,5 @@
 # Sena-Index
-<!--plantilla html-->
+<!--Esta es la plantilla html-->
 <!doctype html>
 
 <html lang="en">
